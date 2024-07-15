@@ -1,0 +1,25 @@
+python-dotenv
+tqdm
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+transformers>=4.34.0
+torch
+onnx
+langchain
+langchainhub 
+langchain_experimental
+langchain_community
+langchain_chroma
+langchain_openai
+
+markdown
+einops
+sentence_transformers
+unstructured
+spacy
+chromadb
+
+requests
+fastapi
+streamlit
+uvicorn
